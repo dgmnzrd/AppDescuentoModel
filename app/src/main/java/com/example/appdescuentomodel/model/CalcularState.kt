@@ -1,6 +1,6 @@
 package com.example.appdescuentomodel.model
 
-data class Calcular (
+data class CalcularState (
     val precio : String = "",
     val descuento : String = "",
     val precioDescuento : Double = 0.0,
